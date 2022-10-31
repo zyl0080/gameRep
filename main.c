@@ -3,7 +3,7 @@
 
 int main ()
 {
-    int a=100;
+    int a=102;
     printf("hello world!!! %d\n",a);
     getchar();
     return 0;
